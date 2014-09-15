@@ -44,5 +44,4 @@ class Number
 
 		return array($value);
 	}
-
 }
